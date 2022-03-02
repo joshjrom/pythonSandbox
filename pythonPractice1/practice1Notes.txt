@@ -1,0 +1,42 @@
+Imports 
+
+- import code1  if code1 is too long and you want to import it as a different name, use - import code1 as cd 
+print(code1.find_average(1, 2, 3))
+
+- from code1 import find_average
+
+- from code1 import *
+
+
+
+CMD Directory 
+dir
+cd name of directory
+
+CMD Library 
+pip freeze
+pip install bs4 
+pip uninstall bs4
+
+
+Conditionals and Recursion
+
+Floor Division Operator // - it divides two numbers and rounds down to an interger
+Modulus Operator % - it devides two numbers and returns the remainder. It also checks whether one number is divisible by another
+
+
+Boolean Expressions
+
+== eg. 5 == 5, 5 == 6
+
+Logical Operators
+
+and, or, and not
+
+Conditional Execution is using only if statement
+
+Alternate Execution is using if and else statement.
+
+Chained conditionals is using if, elif, else 
+
+Nested conditions is having  else and if nested in a flow
