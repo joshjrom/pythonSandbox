@@ -1,4 +1,5 @@
-command = "".lower()
+
+userInput = ""
 
 while True:
     userInput = input("> ").lower()
